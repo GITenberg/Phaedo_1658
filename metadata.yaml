@@ -1,0 +1,48 @@
+_repo: Phaedo_1658
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: There is a well-known saying that the whole of Western Philosophy is
+  footnotes of Plato. This is because his writings have set the schema that philosophy
+  can be said to have followed ever since. Following under the teachings of Socrates,
+  Plato's works are among the world's greatest literature. Though Plato himself was
+  apparently ill and not present at the prison on the day of Socrates' death, Phaedo
+  was, and the discussion was surely recounted to him, perhaps much in the same way
+  as this dialog is recounted by Phaedo for Echecrates. Phaedo was from a noble family
+  in Elis, but when that city was defeated in 401 BC he was captured and forced into
+  a house of prostitution. However, Phaedo managed to slip out to listen to Socrates,
+  who eventually persuaded either Cebes or Alcibiades or Crito and their friends to
+  ransom him so that he could be free and study philosophy.
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '1999-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Classical literature'
+- !lcc 'PA'
+- !lcsh 'Immortality (Philosophy) -- Early works to 1800'
+- GITenberg
+title: Phaedo
+url: http://www.gutenberg.org/ebooks/1658
